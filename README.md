@@ -59,7 +59,7 @@ To show the live interactive dashboard on NovyPro Click below link:
 ## Demo
 
 youtub demo video is here
-- [Youtube](https://youtu.be/kH9GYc1ox8k?si=tmQd0UQYA5yj__dm)
+- [Youtube](https://youtu.be/kH9GYc1ox8k?si=N4GC8Bl2gKHZZB4j)
 
 ## Features
 Checkout the following links for more information
