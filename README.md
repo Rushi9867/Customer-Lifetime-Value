@@ -14,11 +14,11 @@ are going to analyse some key features. For this purpose, we will get our data f
 ## PowerBI Edit Query
 ![PowerBI Query](https://github.com/Rushi9867/Customer-Lifetime-Value/blob/main/Data/Gift/CLV%20Edit%20Query.gif)
 
-## Customers
-![Customers](https://github.com/Rushi9867/Customer-Lifetime-Value/blob/main/Data/Gift/CLV%20Customers.gif)
-
 ## Home
 ![Home](https://github.com/Rushi9867/Customer-Lifetime-Value/blob/main/Images/CLV.png)
+
+## Customers
+![Customers](https://github.com/Rushi9867/Customer-Lifetime-Value/blob/main/Data/Gift/CLV%20Customers.gif)
 
 ## Compliants
 ![Complaints](https://github.com/Rushi9867/Customer-Lifetime-Value/blob/main/Data/Gift/CLV%20Complaints.gif)
